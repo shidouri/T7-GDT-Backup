@@ -1,0 +1,10 @@
+{
+	"gobo_smoke_01" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\gobo_smoke_01.tif"
+	}
+	"white_light" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\cookie_white.tif"
+	}
+}

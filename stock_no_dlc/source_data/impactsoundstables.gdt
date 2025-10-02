@@ -1,0 +1,26 @@
+{
+	"wpn_clip_bounce" ( "impactsoundstable.gdf" )
+	{
+		"entitySoundImpacts" ""
+		"surfaceSoundTable" "surface_clip_bounce"
+		"victimSoundImpacts" ""
+	}
+	"wpn_bounce" ( "impactsoundstable.gdf" )
+	{
+		"entitySoundImpacts" "entity_bounce"
+		"surfaceSoundTable" "surface_weapon_bounce"
+		"victimSoundImpacts" ""
+	}
+	"bullet_exit" ( "impactsoundstable.gdf" )
+	{
+		"entitySoundImpacts" "entity_exit"
+		"surfaceSoundTable" "surface_bullet_exit"
+		"victimSoundImpacts" ""
+	}
+	"bullet_impact" ( "impactsoundstable.gdf" )
+	{
+		"entitySoundImpacts" "entity_impact"
+		"surfaceSoundTable" "surface_bullet_impact"
+		"victimSoundImpacts" "victim_bullet"
+	}
+}

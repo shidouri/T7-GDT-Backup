@@ -1,0 +1,68 @@
+{
+	"camo_t7_base" ( "weaponcamotable.gdf" )
+	{
+		"configstringFileType" "WEAPONCAMOTABLE"
+		"numCamoTables" "3"
+		"table_01_name" "camo_t7_base_ship"
+		"table_02_name" "camo_t7_dlc1_base76"
+		"table_03_name" "camo_t7_base_dlc2_base121"
+		"table_04_name" ""
+		"table_05_name" ""
+		"table_06_name" ""
+		"table_07_name" ""
+		"table_08_name" ""
+		"table_09_name" ""
+		"table_10_name" ""
+	}
+	"camo_t7_attachment" [ "camo_t7_base" ]
+	{
+		"table_01_name" "camo_t7_attachment_ship"
+		"table_02_name" "camo_t7_attachment_dlc1_base76"
+		"table_03_name" "camo_t7_attachment_dlc2_base121"
+	}
+	"camo_t7_weapon" [ "camo_t7_base" ]
+	{
+	}
+	"camo_t7_attach_fmj" [ "camo_t7_attachment" ]
+	{
+		"table_01_name" "camo_t7_attach_fmj_ship"
+		"table_02_name" "camo_t7_attach_fmj_dlc1_base76"
+		"table_03_name" "camo_t7_attach_fmj_dlc2_base121"
+	}
+	"camo_t7_attach_stalker" [ "camo_t7_attachment" ]
+	{
+		"table_01_name" "camo_t7_attach_stalker_ship"
+		"table_02_name" "camo_t7_attach_stalker_dlc1_base76"
+		"table_03_name" "camo_t7_attach_stalker_dlc2_base121"
+	}
+	"camo_t7_smg_standard" [ "camo_t7_weapon" ]
+	{
+		"table_01_name" "camo_t7_smg_standard_ship"
+		"table_02_name" "camo_t7_smg_standard_dlc1_base76"
+		"table_03_name" "camo_t7_smg_standard_dlc2_base121"
+	}
+	"camo_t7_attach_fmj_smg" [ "camo_t7_attach_fmj" ]
+	{
+		"table_01_name" "camo_t7_attach_fmj_smg_ship"
+		"table_02_name" "camo_t7_attach_fmj_smg_dlc1_base76"
+		"table_03_name" "camo_t7_attach_fmj_smg_dlc2_base121"
+	}
+	"camo_t7_attach_stalker_smg" [ "camo_t7_attach_stalker" ]
+	{
+		"table_01_name" "camo_t7_attach_stalker_smg_ship"
+		"table_02_name" "camo_t7_attach_stalker_smg_dlc1_base76"
+		"table_03_name" "camo_t7_attach_stalker_smg_dlc2_base121"
+	}
+	"camo_t7_attach_fmj_smg_standard" [ "camo_t7_attach_fmj_smg" ]
+	{
+		"table_01_name" "camo_t7_attach_fmj_smg_standard_ship"
+		"table_02_name" "camo_t7_attach_fmj_smg_standard_dlc1_base76"
+		"table_03_name" "camo_t7_attach_fmj_smg_standard_dlc2_base121"
+	}
+	"camo_t7_attach_stalker_smg_standard" [ "camo_t7_attach_stalker_smg" ]
+	{
+		"table_01_name" "camo_t7_attach_stalker_smg_standard_ship"
+		"table_02_name" "camo_t7_attach_stalker_smg_standard_dlc1_base76"
+		"table_03_name" "camo_t7_attach_stalker_smg_standard_dlc2_base121"
+	}
+}

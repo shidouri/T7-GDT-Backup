@@ -1,0 +1,575 @@
+{
+	"i_compass_map_mp_combine_full" ( "image.gdf" )
+	{
+		"arabicUnsafe" "0"
+		"baseImage" "texture_assets\\hud_T7\\minimap\\minimaps\\hud_t7_minimap_mp_sector_clean_full.png"
+		"clampU" "1"
+		"clampV" "1"
+		"colorSRGB" "0"
+		"compositeChannel1" ""
+		"compositeChannel2" ""
+		"compositeChannel3" ""
+		"compositeChannel4" ""
+		"compositeImage1" ""
+		"compositeImage2" ""
+		"compositeImage3" ""
+		"compositeImage4" ""
+		"compositeSample1" ""
+		"compositeSample2" ""
+		"compositeSample3" ""
+		"compositeSample4" ""
+		"compositeType" ""
+		"compressionMethod" "compressed"
+		"coreSemantic" "Linear4ch"
+		"doNotResize" "0"
+		"forceStreaming" "0"
+		"fromAlpha" "0"
+		"germanUnsafe" "0"
+		"glossVarianceScale" "1"
+		"himipStreaming" "0"
+		"imageType" "Texture"
+		"japaneseUnsafe" "0"
+		"legallyApproved" "0"
+		"matureContent" "0"
+		"mipBase" "1/1"
+		"mipMask" ""
+		"mipMode" "Average"
+		"mipNorm" "0"
+		"noMipMaps" "1"
+		"noPicMip" "1"
+		"premulAlpha" "0"
+		"semantic" "2d"
+		"streamable" "1"
+		"textureAtlasColumnCount" "1"
+		"textureAtlasRowCount" "1"
+		"type" "image"
+	}
+	"i_compass_map_mp_combine_scrambled" ( "image.gdf" )
+	{
+		"arabicUnsafe" "0"
+		"baseImage" "texture_assets\\hud_T7\\minimap\\minimaps\\hud_t7_minimap_mp_sector_scramble.png"
+		"clampU" "1"
+		"clampV" "1"
+		"colorSRGB" "0"
+		"compositeChannel1" ""
+		"compositeChannel2" ""
+		"compositeChannel3" ""
+		"compositeChannel4" ""
+		"compositeImage1" ""
+		"compositeImage2" ""
+		"compositeImage3" ""
+		"compositeImage4" ""
+		"compositeSample1" ""
+		"compositeSample2" ""
+		"compositeSample3" ""
+		"compositeSample4" ""
+		"compositeType" "DamageMap"
+		"compressionMethod" "compressed no alpha"
+		"coreSemantic" "sRGB3chAlpha"
+		"doNotResize" "0"
+		"forceStreaming" "0"
+		"fromAlpha" "0"
+		"germanUnsafe" "0"
+		"glossVarianceScale" "1"
+		"himipStreaming" "0"
+		"imageType" "Texture"
+		"japaneseUnsafe" "0"
+		"legallyApproved" "0"
+		"matureContent" "0"
+		"mipBase" "1/1"
+		"mipMask" ""
+		"mipMode" "Average"
+		"mipNorm" "0"
+		"noMipMaps" "1"
+		"noPicMip" "1"
+		"premulAlpha" "0"
+		"semantic" "diffuseMap"
+		"streamable" "1"
+		"textureAtlasColumnCount" "1"
+		"textureAtlasRowCount" "1"
+		"type" "image"
+	}
+	"i_compass_map_mp_combine_t7" ( "image.gdf" )
+	{
+		"arabicUnsafe" "0"
+		"baseImage" "texture_assets\\hud_T7\\minimap\\minimaps\\hud_t7_minimap_mp_sector_clean.png"
+		"clampU" "1"
+		"clampV" "1"
+		"colorSRGB" "0"
+		"compositeChannel1" ""
+		"compositeChannel2" ""
+		"compositeChannel3" ""
+		"compositeChannel4" ""
+		"compositeImage1" ""
+		"compositeImage2" ""
+		"compositeImage3" ""
+		"compositeImage4" ""
+		"compositeSample1" ""
+		"compositeSample2" ""
+		"compositeSample3" ""
+		"compositeSample4" ""
+		"compositeType" "DamageMap"
+		"compressionMethod" "compressed"
+		"coreSemantic" "Linear4ch"
+		"doNotResize" "0"
+		"forceStreaming" "0"
+		"fromAlpha" "0"
+		"germanUnsafe" "0"
+		"glossVarianceScale" "1"
+		"himipStreaming" "0"
+		"imageType" "Texture"
+		"japaneseUnsafe" "0"
+		"legallyApproved" "0"
+		"matureContent" "0"
+		"mipBase" "1/1"
+		"mipMask" ""
+		"mipMode" "Average"
+		"mipNorm" "0"
+		"noMipMaps" "1"
+		"noPicMip" "1"
+		"premulAlpha" "0"
+		"semantic" "2d"
+		"streamable" "1"
+		"textureAtlasColumnCount" "1"
+		"textureAtlasRowCount" "1"
+		"type" "image"
+	}
+	"img_t7_hud_noise_urand" ( "image.gdf" )
+	{
+		"arabicUnsafe" "0"
+		"baseImage" "texture_assets\\hud_T7\\hud_effects\\noise_urand.png"
+		"clampU" "1"
+		"clampV" "1"
+		"colorSRGB" "0"
+		"compositeChannel1" ""
+		"compositeChannel2" ""
+		"compositeChannel3" ""
+		"compositeChannel4" ""
+		"compositeImage1" ""
+		"compositeImage2" ""
+		"compositeImage3" ""
+		"compositeImage4" ""
+		"compositeSample1" ""
+		"compositeSample2" ""
+		"compositeSample3" ""
+		"compositeSample4" ""
+		"compositeType" "DamageMap"
+		"compressionMethod" "uncompressed"
+		"coreSemantic" "Linear4ch"
+		"doNotResize" "0"
+		"forceStreaming" "0"
+		"fromAlpha" "0"
+		"germanUnsafe" "0"
+		"glossVarianceScale" "1"
+		"himipStreaming" "0"
+		"imageType" "Texture"
+		"japaneseUnsafe" "0"
+		"legallyApproved" "0"
+		"matureContent" "0"
+		"mipBase" "1/1"
+		"mipMask" ""
+		"mipMode" "Average"
+		"mipNorm" "0"
+		"noMipMaps" "1"
+		"noPicMip" "1"
+		"premulAlpha" "0"
+		"semantic" "2d"
+		"streamable" "1"
+		"textureAtlasColumnCount" "1"
+		"textureAtlasRowCount" "1"
+		"type" "image"
+	}
+	"t7_cp_hud_tacmode_type_amws" ( "image.gdf" )
+	{
+		"arabicUnsafe" "0"
+		"baseImage" "texture_assets\\hud_T7\\cp_hud_TacMode\\t7_cp_hud_tacmode_type_amws.png"
+		"clampU" "0"
+		"clampV" "0"
+		"colorSRGB" "0"
+		"compositeChannel1" ""
+		"compositeChannel2" ""
+		"compositeChannel3" ""
+		"compositeChannel4" ""
+		"compositeImage1" ""
+		"compositeImage2" ""
+		"compositeImage3" ""
+		"compositeImage4" ""
+		"compositeSample1" ""
+		"compositeSample2" ""
+		"compositeSample3" ""
+		"compositeSample4" ""
+		"compositeType" ""
+		"compressionMethod" "compressed"
+		"coreSemantic" "Linear4ch"
+		"doNotResize" "0"
+		"forceStreaming" "0"
+		"fromAlpha" "0"
+		"germanUnsafe" "0"
+		"glossVarianceScale" "1"
+		"himipStreaming" "0"
+		"imageType" "Texture"
+		"japaneseUnsafe" "0"
+		"legallyApproved" "0"
+		"matureContent" "0"
+		"mipBase" "1/1"
+		"mipMask" ""
+		"mipMode" "Average"
+		"mipNorm" "0"
+		"noMipMaps" "0"
+		"noPicMip" "0"
+		"premulAlpha" "0"
+		"semantic" "2d"
+		"streamable" "1"
+		"textureAtlasColumnCount" "1"
+		"textureAtlasRowCount" "1"
+		"type" "image"
+	}
+	"t7_icon_attach_base" ( "image.gdf" )
+	{
+		"arabicUnsafe" "0"
+		"baseImage" "texture_assets/ui/icons/weapons/ar_accurate/t7_icon_attach_ar_accurate_extbarrel_01.png"
+		"clampU" "0"
+		"clampV" "0"
+		"colorSRGB" "0"
+		"compositeChannel1" ""
+		"compositeChannel2" ""
+		"compositeChannel3" ""
+		"compositeChannel4" ""
+		"compositeImage1" ""
+		"compositeImage2" ""
+		"compositeImage3" ""
+		"compositeImage4" ""
+		"compositeSample1" ""
+		"compositeSample2" ""
+		"compositeSample3" ""
+		"compositeSample4" ""
+		"compositeType" ""
+		"compressionMethod" "compressed"
+		"coreSemantic" "Linear4ch"
+		"doNotResize" "0"
+		"forceStreaming" "1"
+		"fromAlpha" "0"
+		"germanUnsafe" "0"
+		"glossVarianceScale" "1"
+		"himipStreaming" "0"
+		"imageType" "Texture"
+		"japaneseUnsafe" "0"
+		"legallyApproved" "0"
+		"matureContent" "0"
+		"mipBase" "1/1"
+		"mipMask" ""
+		"mipMode" "Average"
+		"mipNorm" "0"
+		"noMipMaps" "1"
+		"noPicMip" "0"
+		"premulAlpha" "0"
+		"semantic" "2d"
+		"streamable" "1"
+		"textureAtlasColumnCount" "1"
+		"textureAtlasRowCount" "1"
+		"type" "image"
+	}
+	"t7_icon_pbt_base_rwd" ( "image.gdf" )
+	{
+		"arabicUnsafe" "0"
+		"baseImage" "texture_assets/ui/icons/rewards/customization/cp/t7_icon_pbt_cp_female_body_01_prologue_rwd.png"
+		"clampU" "0"
+		"clampV" "0"
+		"colorSRGB" "0"
+		"compositeChannel1" ""
+		"compositeChannel2" ""
+		"compositeChannel3" ""
+		"compositeChannel4" ""
+		"compositeImage1" ""
+		"compositeImage2" ""
+		"compositeImage3" ""
+		"compositeImage4" ""
+		"compositeSample1" ""
+		"compositeSample2" ""
+		"compositeSample3" ""
+		"compositeSample4" ""
+		"compositeType" ""
+		"compressionMethod" "compressed"
+		"coreSemantic" "Linear4ch"
+		"doNotResize" "0"
+		"forceStreaming" "1"
+		"fromAlpha" "0"
+		"germanUnsafe" "0"
+		"glossVarianceScale" "1"
+		"himipStreaming" "0"
+		"imageType" "Texture"
+		"japaneseUnsafe" "0"
+		"legallyApproved" "0"
+		"matureContent" "0"
+		"mipBase" "1/1"
+		"mipMask" ""
+		"mipMode" "Average"
+		"mipNorm" "0"
+		"noMipMaps" "1"
+		"noPicMip" "0"
+		"premulAlpha" "0"
+		"semantic" "2d"
+		"streamable" "1"
+		"textureAtlasColumnCount" "1"
+		"textureAtlasRowCount" "1"
+		"type" "image"
+	}
+	"t7_icon_weapon_base_kf" ( "image.gdf" )
+	{
+		"arabicUnsafe" "0"
+		"baseImage" "texture_assets/ui/icons/weapons/ar_accurate/t7_icon_weapon_ar_accurate_kf.png"
+		"clampU" "0"
+		"clampV" "0"
+		"colorSRGB" "0"
+		"compositeChannel1" ""
+		"compositeChannel2" ""
+		"compositeChannel3" ""
+		"compositeChannel4" ""
+		"compositeImage1" ""
+		"compositeImage2" ""
+		"compositeImage3" ""
+		"compositeImage4" ""
+		"compositeSample1" ""
+		"compositeSample2" ""
+		"compositeSample3" ""
+		"compositeSample4" ""
+		"compositeType" ""
+		"compressionMethod" "compressed"
+		"coreSemantic" "Linear4ch"
+		"doNotResize" "0"
+		"forceStreaming" "0"
+		"fromAlpha" "0"
+		"germanUnsafe" "0"
+		"glossVarianceScale" "1"
+		"himipStreaming" "0"
+		"imageType" "Texture"
+		"japaneseUnsafe" "0"
+		"legallyApproved" "0"
+		"matureContent" "0"
+		"mipBase" "1/1"
+		"mipMask" ""
+		"mipMode" "Average"
+		"mipNorm" "0"
+		"noMipMaps" "1"
+		"noPicMip" "0"
+		"premulAlpha" "0"
+		"semantic" "2d"
+		"streamable" "1"
+		"textureAtlasColumnCount" "1"
+		"textureAtlasRowCount" "1"
+		"type" "image"
+	}
+	"t7_icon_weapon_base_pu" ( "image.gdf" )
+	{
+		"arabicUnsafe" "0"
+		"baseImage" "texture_assets/ui/icons/weapons/ar_accurate/t7_icon_weapon_ar_accurate_pu.png"
+		"clampU" "0"
+		"clampV" "0"
+		"colorSRGB" "0"
+		"compositeChannel1" ""
+		"compositeChannel2" ""
+		"compositeChannel3" ""
+		"compositeChannel4" ""
+		"compositeImage1" ""
+		"compositeImage2" ""
+		"compositeImage3" ""
+		"compositeImage4" ""
+		"compositeSample1" ""
+		"compositeSample2" ""
+		"compositeSample3" ""
+		"compositeSample4" ""
+		"compositeType" ""
+		"compressionMethod" "compressed"
+		"coreSemantic" "Linear4ch"
+		"doNotResize" "0"
+		"forceStreaming" "0"
+		"fromAlpha" "0"
+		"germanUnsafe" "0"
+		"glossVarianceScale" "1"
+		"himipStreaming" "0"
+		"imageType" "Texture"
+		"japaneseUnsafe" "0"
+		"legallyApproved" "0"
+		"matureContent" "0"
+		"mipBase" "1/1"
+		"mipMask" ""
+		"mipMode" "Average"
+		"mipNorm" "0"
+		"noMipMaps" "1"
+		"noPicMip" "0"
+		"premulAlpha" "0"
+		"semantic" "2d"
+		"streamable" "1"
+		"textureAtlasColumnCount" "1"
+		"textureAtlasRowCount" "1"
+		"type" "image"
+	}
+	"t7_icon_attach_smg_standard_extbarrel_01" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_extbarrel_01.png"
+	}
+	"t7_icon_attach_smg_standard_extbarrel_02" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_extbarrel_02.png"
+	}
+	"t7_icon_attach_smg_standard_extmag_01" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_extmag_01.png"
+	}
+	"t7_icon_attach_smg_standard_extmag_02" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_extmag_02.png"
+	}
+	"t7_icon_attach_smg_standard_extstock_01" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_extstock_01.png"
+	}
+	"t7_icon_attach_smg_standard_extstock_02" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_extstock_02.png"
+	}
+	"t7_icon_attach_smg_standard_fastmag_01" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_fastmag_01.png"
+	}
+	"t7_icon_attach_smg_standard_fastmag_02" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_fastmag_02.png"
+	}
+	"t7_icon_attach_smg_standard_fmj_01" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_fmj_01.png"
+	}
+	"t7_icon_attach_smg_standard_fmj_02" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_fmj_02.png"
+	}
+	"t7_icon_attach_smg_standard_grip_01" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_grip_01.png"
+	}
+	"t7_icon_attach_smg_standard_grip_02" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_grip_02.png"
+	}
+	"t7_icon_attach_smg_standard_laser_01" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_laser_01.png"
+	}
+	"t7_icon_attach_smg_standard_laser_02" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_laser_02.png"
+	}
+	"t7_icon_attach_smg_standard_quickdraw_01" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_quickdraw_01.png"
+	}
+	"t7_icon_attach_smg_standard_quickdraw_02" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_quickdraw_02.png"
+	}
+	"t7_icon_attach_smg_standard_rapidfire_01" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_rapidfire_01.png"
+	}
+	"t7_icon_attach_smg_standard_rapidfire_02" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_rapidfire_02.png"
+	}
+	"t7_icon_attach_smg_standard_suppressor_01" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_suppressor_01.png"
+	}
+	"t7_icon_attach_smg_standard_suppressor_02" [ "t7_icon_attach_base" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_attach_smg_standard_suppressor_02.png"
+	}
+	"t7_icon_pbt_mp_mercenary_body1_skin1_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_body1_skin1_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_body1_skin2_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_body1_skin2_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_body1_skin3_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_body1_skin3_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_body1_skin4_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_body1_skin4_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_body1_skin5_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_body1_skin5_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_body2_skin1_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_body2_skin1_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_body2_skin2_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_body2_skin2_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_body2_skin3_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_body2_skin3_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_body2_skin4_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_body2_skin4_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_body2_skin5_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_body2_skin5_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_head1_skin1_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_head1_skin1_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_head1_skin2_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_head1_skin2_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_head1_skin3_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_head1_skin3_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_head2_skin1_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_head2_skin1_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_head2_skin2_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_head2_skin2_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_head2_skin3_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_head2_skin3_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_head3_skin1_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_head3_skin1_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_head3_skin2_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_head3_skin2_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_head4_skin1_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_head4_skin1_rwd.png"
+	}
+	"t7_icon_pbt_mp_mercenary_head4_skin2_rwd" [ "t7_icon_pbt_base_rwd" ]
+	{
+		"baseImage" "texture_assets/ui/icons/rewards/customization/mp/t7_icon_pbt_mp_mercenary_head4_skin2_rwd.png"
+	}
+	"t7_icon_weapon_smg_standard_kf" [ "t7_icon_weapon_base_kf" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_weapon_smg_standard_kf.png"
+	}
+	"t7_icon_weapon_smg_standard_pu" [ "t7_icon_weapon_base_pu" ]
+	{
+		"baseImage" "texture_assets/ui/icons/weapons/smg_standard/t7_icon_weapon_smg_standard_pu.png"
+	}
+}
