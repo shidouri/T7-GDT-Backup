@@ -13,3 +13,5 @@ as well as the GDTs from the Additional Assets DLC content [91.2GB DLC]
 ##  ##
 **If you have the Additional Assets DLC installed, use [stock_with_additional_dlc](https://github.com/shidouri/T7-GDT-Backup/tree/main/stock_with_additional_dlc).**  
 **Otherwise, use [stock_no_dlc](https://github.com/shidouri/T7-GDT-Backup/tree/main/stock_no_dlc).**  
+##  ##
+### Thankyou for the gdtmanifest files provided by prov3ntus that list the SHA-256 checksum of every GDT. ###
