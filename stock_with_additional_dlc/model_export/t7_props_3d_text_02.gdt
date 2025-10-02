@@ -1,0 +1,1847 @@
+{
+	"p7_3d_txt_harmonia_sans_std_00_yellow" ( "xmodel.gdf" )
+	{
+		"arabicUnsafe" "0"
+		"autogenLod4" "0"
+		"autogenLod4Percent" "8"
+		"autogenLod5" "0"
+		"autogenLod5Percent" "4"
+		"autogenLod6" "0"
+		"autogenLod6Percent" "2"
+		"autogenLod7" "0"
+		"autogenLod7Percent" "1"
+		"autogenLowestLod" "0"
+		"autogenLowestLodPercent" "15"
+		"autogenLowLod" "0"
+		"autogenLowLodPercent" "25"
+		"autogenMediumLod" "0"
+		"autogenMediumLodPercent" "60"
+		"boneControllers" ""
+		"boneStabilizers" ""
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_00_col.XMODEL_BIN"
+		"BulletCollisionLOD" "Custom"
+		"BulletCollisionRigid" "0"
+		"CollisionMap" ""
+		"cullOutDiameter" "0"
+		"cullOutOffsetCP" "1"
+		"cullOutOffsetMP" "1"
+		"customAutogenParams" "0"
+		"DetailShadows" "0"
+		"doNotUse" "0"
+		"dropLOD" "Auto"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_00_lod0.XMODEL_BIN"
+		"forceLod4Rigid" "0"
+		"forceLod5Rigid" "0"
+		"forceLod6Rigid" "0"
+		"forceLod7Rigid" "0"
+		"forceLowestLodRigid" "0"
+		"forceLowLodRigid" "0"
+		"forceMediumLodRigid" "0"
+		"forceResident" "0"
+		"fp32" "0"
+		"germanUnsafe" "0"
+		"heroAsset" "0"
+		"heroLighting" "0"
+		"highLodDist" "400"
+		"hitBoxModel" ""
+		"isSiege" "0"
+		"japaneseUnsafe" "0"
+		"lod4Dist" "0"
+		"lod4File" ""
+		"lod5Dist" "0"
+		"lod5File" ""
+		"lod6Dist" "0"
+		"lod6File" ""
+		"lod7Dist" "0"
+		"lod7File" ""
+		"LODBiasOffsetCP" "0"
+		"LODBiasOffsetMP" "0"
+		"LODBiasPercent" "0"
+		"LodColorPriority" "0.008"
+		"lodNormalPriority" "1.54"
+		"lodPositionPriority" "12"
+		"lodPresets" "custom"
+		"LodUvPriority" "3.5"
+		"lowestLod" ""
+		"lowestLodDist" "0"
+		"lowLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_00_lod2.XMODEL_BIN"
+		"lowLodDist" "0"
+		"materials" ""
+		"mediumLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_00_lod1.XMODEL_BIN"
+		"mediumLodDist" "900"
+		"noCastShadow" "0"
+		"noOutdoorOcclude" "0"
+		"notInEditor" "0"
+		"physicsConstraints" ""
+		"physicsPreset" ""
+		"preserveOriginalUVs" "0"
+		"scale" "1"
+		"scaleCollMap" "0"
+		"ShadowLOD" "Auto"
+		"skinOverride" ""
+		"submodel0_Name" ""
+		"submodel0_OffsetPitch" "0"
+		"submodel0_OffsetRoll" "0"
+		"submodel0_OffsetX" "0"
+		"submodel0_OffsetY" "0"
+		"submodel0_OffsetYaw" "0"
+		"submodel0_OffsetZ" "0"
+		"submodel0_ParentTag" ""
+		"submodel1_Name" ""
+		"submodel1_OffsetPitch" "0"
+		"submodel1_OffsetRoll" "0"
+		"submodel1_OffsetX" "0"
+		"submodel1_OffsetY" "0"
+		"submodel1_OffsetYaw" "0"
+		"submodel1_OffsetZ" "0"
+		"submodel1_ParentTag" ""
+		"submodel10_Name" ""
+		"submodel10_OffsetPitch" "0"
+		"submodel10_OffsetRoll" "0"
+		"submodel10_OffsetX" "0"
+		"submodel10_OffsetY" "0"
+		"submodel10_OffsetYaw" "0"
+		"submodel10_OffsetZ" "0"
+		"submodel10_ParentTag" ""
+		"submodel11_Name" ""
+		"submodel11_OffsetPitch" "0"
+		"submodel11_OffsetRoll" "0"
+		"submodel11_OffsetX" "0"
+		"submodel11_OffsetY" "0"
+		"submodel11_OffsetYaw" "0"
+		"submodel11_OffsetZ" "0"
+		"submodel11_ParentTag" ""
+		"submodel12_Name" ""
+		"submodel12_OffsetPitch" "0"
+		"submodel12_OffsetRoll" "0"
+		"submodel12_OffsetX" "0"
+		"submodel12_OffsetY" "0"
+		"submodel12_OffsetYaw" "0"
+		"submodel12_OffsetZ" "0"
+		"submodel12_ParentTag" ""
+		"submodel13_Name" ""
+		"submodel13_OffsetPitch" "0"
+		"submodel13_OffsetRoll" "0"
+		"submodel13_OffsetX" "0"
+		"submodel13_OffsetY" "0"
+		"submodel13_OffsetYaw" "0"
+		"submodel13_OffsetZ" "0"
+		"submodel13_ParentTag" ""
+		"submodel14_Name" ""
+		"submodel14_OffsetPitch" "0"
+		"submodel14_OffsetRoll" "0"
+		"submodel14_OffsetX" "0"
+		"submodel14_OffsetY" "0"
+		"submodel14_OffsetYaw" "0"
+		"submodel14_OffsetZ" "0"
+		"submodel14_ParentTag" ""
+		"submodel15_Name" ""
+		"submodel15_OffsetPitch" "0"
+		"submodel15_OffsetRoll" "0"
+		"submodel15_OffsetX" "0"
+		"submodel15_OffsetY" "0"
+		"submodel15_OffsetYaw" "0"
+		"submodel15_OffsetZ" "0"
+		"submodel15_ParentTag" ""
+		"submodel2_Name" ""
+		"submodel2_OffsetPitch" "0"
+		"submodel2_OffsetRoll" "0"
+		"submodel2_OffsetX" "0"
+		"submodel2_OffsetY" "0"
+		"submodel2_OffsetYaw" "0"
+		"submodel2_OffsetZ" "0"
+		"submodel2_ParentTag" ""
+		"submodel3_Name" ""
+		"submodel3_OffsetPitch" "0"
+		"submodel3_OffsetRoll" "0"
+		"submodel3_OffsetX" "0"
+		"submodel3_OffsetY" "0"
+		"submodel3_OffsetYaw" "0"
+		"submodel3_OffsetZ" "0"
+		"submodel3_ParentTag" ""
+		"submodel4_Name" ""
+		"submodel4_OffsetPitch" "0"
+		"submodel4_OffsetRoll" "0"
+		"submodel4_OffsetX" "0"
+		"submodel4_OffsetY" "0"
+		"submodel4_OffsetYaw" "0"
+		"submodel4_OffsetZ" "0"
+		"submodel4_ParentTag" ""
+		"submodel5_Name" ""
+		"submodel5_OffsetPitch" "0"
+		"submodel5_OffsetRoll" "0"
+		"submodel5_OffsetX" "0"
+		"submodel5_OffsetY" "0"
+		"submodel5_OffsetYaw" "0"
+		"submodel5_OffsetZ" "0"
+		"submodel5_ParentTag" ""
+		"submodel6_Name" ""
+		"submodel6_OffsetPitch" "0"
+		"submodel6_OffsetRoll" "0"
+		"submodel6_OffsetX" "0"
+		"submodel6_OffsetY" "0"
+		"submodel6_OffsetYaw" "0"
+		"submodel6_OffsetZ" "0"
+		"submodel6_ParentTag" ""
+		"submodel7_Name" ""
+		"submodel7_OffsetPitch" "0"
+		"submodel7_OffsetRoll" "0"
+		"submodel7_OffsetX" "0"
+		"submodel7_OffsetY" "0"
+		"submodel7_OffsetYaw" "0"
+		"submodel7_OffsetZ" "0"
+		"submodel7_ParentTag" ""
+		"submodel8_Name" ""
+		"submodel8_OffsetPitch" "0"
+		"submodel8_OffsetRoll" "0"
+		"submodel8_OffsetX" "0"
+		"submodel8_OffsetY" "0"
+		"submodel8_OffsetYaw" "0"
+		"submodel8_OffsetZ" "0"
+		"submodel8_ParentTag" ""
+		"submodel9_Name" ""
+		"submodel9_OffsetPitch" "0"
+		"submodel9_OffsetRoll" "0"
+		"submodel9_OffsetX" "0"
+		"submodel9_OffsetY" "0"
+		"submodel9_OffsetYaw" "0"
+		"submodel9_OffsetZ" "0"
+		"submodel9_ParentTag" ""
+		"type" "rigid"
+		"usage_attachment" "0"
+		"usage_hero" "0"
+		"usage_view" "0"
+		"usage_weapon" "0"
+		"usage_zombie_body" "0"
+		"usage_zombie_world_prop" "0"
+	}
+	"p7_3d_txt_harmonia_sans_std_a_black" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_a_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_a_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_a_brushed_aluminum" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_a_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_a_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_b_yellow" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_b_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_b_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_b_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_b_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_harmonia_sans_std_c_brushed_aluminum" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_c_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_c_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_c_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_c_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_d_black" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_d_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_d_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_d_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_d_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_d_brushed_aluminum" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_d_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_d_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_d_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_d_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_d_yellow" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_d_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_d_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_d_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_d_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_harmonia_sans_std_e_black" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_e_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_e_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_e_brushed_aluminum" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_e_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_e_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_e_yellow" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_e_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_e_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+	}
+	"p7_3d_txt_harmonia_sans_std_h_black" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_h_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_h_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_h_brushed_aluminum" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_h_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_h_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_i_brushed_aluminum" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_i_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_i_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_j_black" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_j_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_j_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_j_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_j_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_j_brushed_aluminum" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_j_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_j_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_j_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_j_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_l_black" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_l_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_l_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_l_brushed_aluminum" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_l_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_l_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_l_lower_brushed_aluminum" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_l_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_l_lower_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_l_lower_yellow" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_l_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_l_lower_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+	}
+	"p7_3d_txt_harmonia_sans_std_m_brushed_aluminum" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_m_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_m_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_m_yellow" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_m_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_m_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+	}
+	"p7_3d_txt_harmonia_sans_std_n_black" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_n_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_n_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_n_brushed_aluminum" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_n_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_n_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_o_black" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_o_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_o_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_o_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_o_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_o_brushed_aluminum" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_o_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_o_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_o_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_o_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_o_yellow" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_o_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_o_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_o_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_o_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_harmonia_sans_std_p_brushed_aluminum" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_p_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_p_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_p_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_p_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_r_brushed_aluminum" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_r_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_r_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_r_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_r_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_s_black" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_s_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_s_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_s_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_s_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_s_brushed_alunimum" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_s_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_s_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_s_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_s_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_s_yellow" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_s_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_s_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_s_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_s_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_harmonia_sans_std_t_black" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_t_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_t_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_t_brushed_aluminum" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_t_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_t_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_u_brushed_aluminum" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_u_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_u_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_u_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_u_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_w_black" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_w_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_w_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_z_yellow" [ "p7_3d_txt_harmonia_sans_std_00_yellow" ]
+	{
+		"autogenLowLod" "1"
+		"autogenMediumLod" "1"
+		"autogenMediumLodPercent" "50"
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_z_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_harmonia_sans_std\\p7_3d_txt_harmonia_sans_std_z_lod0.XMODEL_BIN"
+		"lowLod" ""
+		"mediumLod" ""
+	}
+	"p7_3d_txt_antiqua_bold_00_yellow" ( "xmodel.gdf" )
+	{
+		"arabicUnsafe" "0"
+		"autogenLod4" "1"
+		"autogenLod4Percent" "7"
+		"autogenLod5" "0"
+		"autogenLod5Percent" "4"
+		"autogenLod6" "0"
+		"autogenLod6Percent" "2"
+		"autogenLod7" "0"
+		"autogenLod7Percent" "1"
+		"autogenLowestLod" "1"
+		"autogenLowestLodPercent" "12"
+		"autogenLowLod" "0"
+		"autogenLowLodPercent" "25"
+		"autogenMediumLod" "0"
+		"autogenMediumLodPercent" "60"
+		"boneControllers" ""
+		"boneStabilizers" ""
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_00_col.XMODEL_BIN"
+		"BulletCollisionLOD" "Custom"
+		"BulletCollisionRigid" "0"
+		"CollisionMap" ""
+		"cullOutDiameter" "0"
+		"cullOutOffsetCP" "1"
+		"cullOutOffsetMP" "1"
+		"customAutogenParams" "0"
+		"DetailShadows" "0"
+		"doNotUse" "0"
+		"dropLOD" "Medium"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_00_lod0.XMODEL_BIN"
+		"forceLod4Rigid" "0"
+		"forceLod5Rigid" "0"
+		"forceLod6Rigid" "0"
+		"forceLod7Rigid" "0"
+		"forceLowestLodRigid" "0"
+		"forceLowLodRigid" "0"
+		"forceMediumLodRigid" "0"
+		"forceResident" "0"
+		"fp32" "0"
+		"germanUnsafe" "0"
+		"heroAsset" "0"
+		"heroLighting" "0"
+		"highLodDist" "400"
+		"hitBoxModel" ""
+		"isSiege" "0"
+		"japaneseUnsafe" "0"
+		"lod4Dist" "0"
+		"lod4File" ""
+		"lod5Dist" "0"
+		"lod5File" ""
+		"lod6Dist" "0"
+		"lod6File" ""
+		"lod7Dist" "0"
+		"lod7File" ""
+		"LODBiasOffsetCP" "0"
+		"LODBiasOffsetMP" "-0.5"
+		"LODBiasPercent" "-1.25"
+		"LodColorPriority" "0.008"
+		"lodNormalPriority" "1.54"
+		"lodPositionPriority" "12"
+		"lodPresets" "custom"
+		"LodUvPriority" "3.5"
+		"lowestLod" ""
+		"lowestLodDist" "0"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_00_lod2.XMODEL_BIN"
+		"lowLodDist" "0"
+		"materials" ""
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_00_lod1.XMODEL_BIN"
+		"mediumLodDist" "900"
+		"noCastShadow" "0"
+		"noOutdoorOcclude" "0"
+		"notInEditor" "0"
+		"physicsConstraints" ""
+		"physicsPreset" ""
+		"preserveOriginalUVs" "0"
+		"scale" "1"
+		"scaleCollMap" "0"
+		"ShadowLOD" "Auto"
+		"skinOverride" ""
+		"submodel0_Name" ""
+		"submodel0_OffsetPitch" "0"
+		"submodel0_OffsetRoll" "0"
+		"submodel0_OffsetX" "0"
+		"submodel0_OffsetY" "0"
+		"submodel0_OffsetYaw" "0"
+		"submodel0_OffsetZ" "0"
+		"submodel0_ParentTag" ""
+		"submodel1_Name" ""
+		"submodel1_OffsetPitch" "0"
+		"submodel1_OffsetRoll" "0"
+		"submodel1_OffsetX" "0"
+		"submodel1_OffsetY" "0"
+		"submodel1_OffsetYaw" "0"
+		"submodel1_OffsetZ" "0"
+		"submodel1_ParentTag" ""
+		"submodel10_Name" ""
+		"submodel10_OffsetPitch" "0"
+		"submodel10_OffsetRoll" "0"
+		"submodel10_OffsetX" "0"
+		"submodel10_OffsetY" "0"
+		"submodel10_OffsetYaw" "0"
+		"submodel10_OffsetZ" "0"
+		"submodel10_ParentTag" ""
+		"submodel11_Name" ""
+		"submodel11_OffsetPitch" "0"
+		"submodel11_OffsetRoll" "0"
+		"submodel11_OffsetX" "0"
+		"submodel11_OffsetY" "0"
+		"submodel11_OffsetYaw" "0"
+		"submodel11_OffsetZ" "0"
+		"submodel11_ParentTag" ""
+		"submodel12_Name" ""
+		"submodel12_OffsetPitch" "0"
+		"submodel12_OffsetRoll" "0"
+		"submodel12_OffsetX" "0"
+		"submodel12_OffsetY" "0"
+		"submodel12_OffsetYaw" "0"
+		"submodel12_OffsetZ" "0"
+		"submodel12_ParentTag" ""
+		"submodel13_Name" ""
+		"submodel13_OffsetPitch" "0"
+		"submodel13_OffsetRoll" "0"
+		"submodel13_OffsetX" "0"
+		"submodel13_OffsetY" "0"
+		"submodel13_OffsetYaw" "0"
+		"submodel13_OffsetZ" "0"
+		"submodel13_ParentTag" ""
+		"submodel14_Name" ""
+		"submodel14_OffsetPitch" "0"
+		"submodel14_OffsetRoll" "0"
+		"submodel14_OffsetX" "0"
+		"submodel14_OffsetY" "0"
+		"submodel14_OffsetYaw" "0"
+		"submodel14_OffsetZ" "0"
+		"submodel14_ParentTag" ""
+		"submodel15_Name" ""
+		"submodel15_OffsetPitch" "0"
+		"submodel15_OffsetRoll" "0"
+		"submodel15_OffsetX" "0"
+		"submodel15_OffsetY" "0"
+		"submodel15_OffsetYaw" "0"
+		"submodel15_OffsetZ" "0"
+		"submodel15_ParentTag" ""
+		"submodel2_Name" ""
+		"submodel2_OffsetPitch" "0"
+		"submodel2_OffsetRoll" "0"
+		"submodel2_OffsetX" "0"
+		"submodel2_OffsetY" "0"
+		"submodel2_OffsetYaw" "0"
+		"submodel2_OffsetZ" "0"
+		"submodel2_ParentTag" ""
+		"submodel3_Name" ""
+		"submodel3_OffsetPitch" "0"
+		"submodel3_OffsetRoll" "0"
+		"submodel3_OffsetX" "0"
+		"submodel3_OffsetY" "0"
+		"submodel3_OffsetYaw" "0"
+		"submodel3_OffsetZ" "0"
+		"submodel3_ParentTag" ""
+		"submodel4_Name" ""
+		"submodel4_OffsetPitch" "0"
+		"submodel4_OffsetRoll" "0"
+		"submodel4_OffsetX" "0"
+		"submodel4_OffsetY" "0"
+		"submodel4_OffsetYaw" "0"
+		"submodel4_OffsetZ" "0"
+		"submodel4_ParentTag" ""
+		"submodel5_Name" ""
+		"submodel5_OffsetPitch" "0"
+		"submodel5_OffsetRoll" "0"
+		"submodel5_OffsetX" "0"
+		"submodel5_OffsetY" "0"
+		"submodel5_OffsetYaw" "0"
+		"submodel5_OffsetZ" "0"
+		"submodel5_ParentTag" ""
+		"submodel6_Name" ""
+		"submodel6_OffsetPitch" "0"
+		"submodel6_OffsetRoll" "0"
+		"submodel6_OffsetX" "0"
+		"submodel6_OffsetY" "0"
+		"submodel6_OffsetYaw" "0"
+		"submodel6_OffsetZ" "0"
+		"submodel6_ParentTag" ""
+		"submodel7_Name" ""
+		"submodel7_OffsetPitch" "0"
+		"submodel7_OffsetRoll" "0"
+		"submodel7_OffsetX" "0"
+		"submodel7_OffsetY" "0"
+		"submodel7_OffsetYaw" "0"
+		"submodel7_OffsetZ" "0"
+		"submodel7_ParentTag" ""
+		"submodel8_Name" ""
+		"submodel8_OffsetPitch" "0"
+		"submodel8_OffsetRoll" "0"
+		"submodel8_OffsetX" "0"
+		"submodel8_OffsetY" "0"
+		"submodel8_OffsetYaw" "0"
+		"submodel8_OffsetZ" "0"
+		"submodel8_ParentTag" ""
+		"submodel9_Name" ""
+		"submodel9_OffsetPitch" "0"
+		"submodel9_OffsetRoll" "0"
+		"submodel9_OffsetX" "0"
+		"submodel9_OffsetY" "0"
+		"submodel9_OffsetYaw" "0"
+		"submodel9_OffsetZ" "0"
+		"submodel9_ParentTag" ""
+		"type" "rigid"
+		"usage_attachment" "0"
+		"usage_hero" "0"
+		"usage_view" "0"
+		"usage_weapon" "0"
+		"usage_zombie_body" "0"
+		"usage_zombie_world_prop" "0"
+	}
+	"p7_3d_txt_antiqua_bold_00_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_01_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_01_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_01_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_01_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_01_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_01_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_01_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_01_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_01_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_01_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_01_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_01_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_01_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_01_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_01_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_02_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_02_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_02_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_02_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_02_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_02_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_02_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_02_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_02_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_02_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_03_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_03_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_03_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_03_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_03_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_03_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_03_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_03_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_03_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_03_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_03_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_03_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_03_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_03_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_03_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_04_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_04_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_04_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_04_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_04_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_05_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_05_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_05_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_05_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_05_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_05_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_05_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_05_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_05_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_05_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_06_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_06_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_06_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_06_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_06_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_06_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_06_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_06_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_06_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_06_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_07_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_07_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_07_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_07_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_07_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_07_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_07_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_07_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_07_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_07_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_09_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_09_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_09_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_09_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_09_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_09_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_09_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_09_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_09_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_09_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_09_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_09_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_09_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_09_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_09_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_a_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_a_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_a_lower_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_a_lower_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_a_lower_white" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_white\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_a_lower_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lower_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_a_white" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_white\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_a_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_a_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_b_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_b_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_b_lower_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_b_white" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_white\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_b_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_b_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_c_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_c_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_c_lower_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_lower_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_c_white" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_white\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_c_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_c_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_d_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_d_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_d_lower_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_d_lower_white" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_white\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_d_lower_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_d_lower_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_e_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_e_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_e_lower_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_e_lower_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_e_lower_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lower_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_e_white" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_white\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_e_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_e_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_f_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_f_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_f_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_f_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_f_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_f_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_f_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_f_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_f_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_f_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_f_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_f_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_f_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_f_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_f_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_g_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_g_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_g_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_g_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_g_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_g_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_g_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_g_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_g_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_g_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_g_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_g_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_g_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_g_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_g_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_h_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_h_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_h_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_h_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_h_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_h_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_h_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_h_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_h_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_h_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_h_lower_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_h_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_h_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_h_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_h_lower_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_h_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_h_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_h_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_h_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_h_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_i_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_i_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_i_lower_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_i_lower_white" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_white\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_i_lower_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lower_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_i_white" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_white\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_i_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_i_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_k_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_k_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_k_lower_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_lower_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_k_white" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_white\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_k_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_k_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_l_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_l_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_l_lower_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_l_lower_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_l_lower_white" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_white\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_l_lower_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lower_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_l_white" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_white\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_l_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_l_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_m_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_m_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_m_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_m_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_m_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_m_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_m_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_m_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_m_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_m_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_m_lower_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_m_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_m_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_m_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_m_lower_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_m_white" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_m_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_m_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_m_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_m_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_white\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_n_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_n_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_n_lower_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_n_lower_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_lower_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_n_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_n_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_o_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_o_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_o_lower_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_o_lower_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_o_lower_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lower_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_o_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_o_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_p_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_p_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_p_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_p_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_p_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_p_lower_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_p_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_p_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_p_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_p_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_p_lower_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_p_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_p_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_p_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_p_lower_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_p_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_p_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_p_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_p_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_p_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_r_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_r_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_r_lower_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_r_lower_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lower_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_r_white" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_white\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_r_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_r_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_s_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_s_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_s_lower_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_s_lower_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_s_lower_white" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_white\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_s_lower_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lower_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_s_white" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_white\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_s_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_s_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_t_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_t_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_t_lower_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_t_lower_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_t_lower_white" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_white\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_t_lower_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lower_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_t_white" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_white\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_t_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_t_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_u_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_u_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_u_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_u_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_u_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_u_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_u_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_u_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_u_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_u_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_u_lower_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_u_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_u_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_u_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_u_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_u_lower_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_u_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_u_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_u_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_u_lower_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_v_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_v_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_v_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_v_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_v_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_v_white" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_v_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_v_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_v_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_v_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_white\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_v_yellow" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_v_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_v_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_v_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_v_lod1.XMODEL_BIN"
+	}
+	"p7_3d_txt_antiqua_bold_w_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_w_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_w_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_w_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_w_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_w_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_w_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_w_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_w_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_w_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_y_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_y_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_y_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_y_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_y_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_y_lower_black" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_y_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_y_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_y_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_y_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_painted_acrylic_black\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_y_lower_brushed_aluminum" [ "p7_3d_txt_antiqua_bold_00_yellow" ]
+	{
+		"BulletCollisionFile" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_y_lower_col.XMODEL_BIN"
+		"filename" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_y_lower_lod0.XMODEL_BIN"
+		"lowLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_y_lower_lod2.XMODEL_BIN"
+		"mediumLod" "t7_props\\p7_3d_txt_antiqua_bold\\p7_3d_txt_antiqua_bold_y_lower_lod1.XMODEL_BIN"
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_3d_txt_brushed_aluminum\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_g_dirt" [ "p7_3d_txt_antiqua_bold_g_yellow" ]
+	{
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_cai_vista_mountain_02\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_i_dirt" [ "p7_3d_txt_antiqua_bold_i_yellow" ]
+	{
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_cai_vista_mountain_02\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_k_dirt" [ "p7_3d_txt_antiqua_bold_k_yellow" ]
+	{
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_cai_vista_mountain_02\r\n"
+	}
+	"p7_3d_txt_antiqua_bold_n_dirt" [ "p7_3d_txt_antiqua_bold_n_yellow" ]
+	{
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow mtl_p7_cai_vista_mountain_02\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_o_brushed_aluminum2" [ "p7_3d_txt_harmonia_sans_std_o_brushed_aluminum" ]
+	{
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow t7_metal_bare_aluminum_brushed\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_n_brushed_aluminum2" [ "p7_3d_txt_harmonia_sans_std_n_brushed_aluminum" ]
+	{
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow t7_metal_bare_aluminum_brushed\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_l_brushed_aluminum2" [ "p7_3d_txt_harmonia_sans_std_l_brushed_aluminum" ]
+	{
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow t7_metal_bare_aluminum_brushed\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_e_brushed_aluminum2" [ "p7_3d_txt_harmonia_sans_std_e_brushed_aluminum" ]
+	{
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow t7_metal_bare_aluminum_brushed\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_p_brushed_aluminum2" [ "p7_3d_txt_harmonia_sans_std_p_brushed_aluminum" ]
+	{
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow t7_metal_bare_aluminum_brushed\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_t_brushed_aluminum2" [ "p7_3d_txt_harmonia_sans_std_t_brushed_aluminum" ]
+	{
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow t7_metal_bare_aluminum_brushed\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_u_brushed_aluminum2" [ "p7_3d_txt_harmonia_sans_std_u_brushed_aluminum" ]
+	{
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow t7_metal_bare_aluminum_brushed\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_m_brushed_aluminum2" [ "p7_3d_txt_harmonia_sans_std_m_brushed_aluminum" ]
+	{
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow t7_metal_bare_aluminum_brushed\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_r_brushed_aluminum2" [ "p7_3d_txt_harmonia_sans_std_r_brushed_aluminum" ]
+	{
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow t7_metal_bare_aluminum_brushed\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_i_brushed_aluminum2" [ "p7_3d_txt_harmonia_sans_std_i_brushed_aluminum" ]
+	{
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow t7_metal_bare_aluminum_brushed\r\n"
+	}
+	"p7_3d_txt_harmonia_sans_std_c_brushed_aluminum2" [ "p7_3d_txt_harmonia_sans_std_c_brushed_aluminum" ]
+	{
+		"skinOverride" "mtl_p7_3d_txt_painted_acrylic_yellow t7_metal_bare_aluminum_brushed\r\n"
+	}
+}

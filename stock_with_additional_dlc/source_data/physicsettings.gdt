@@ -1,0 +1,513 @@
+{
+	"weapon_bullet" ( "physpreset.gdf" )
+	{
+		"bounce" "0.3"
+		"bulletForceScale" "1"
+		"buoyancyMaxX" "0"
+		"buoyancyMaxY" "0"
+		"buoyancyMaxZ" "0"
+		"buoyancyMinX" "0"
+		"buoyancyMinY" "0"
+		"buoyancyMinZ" "0"
+		"canFloat" "0"
+		"configstringFileType" "PHYSIC"
+		"damping_angular" "1"
+		"damping_linear" "1"
+		"explosiveForceScale" "1"
+		"friction" "0.7"
+		"gravityScale" "1"
+		"impactsFxTable" ""
+		"impactsSoundsTable" ""
+		"mass" "0.1"
+		"massOffsetX" "0"
+		"massOffsetY" "0"
+		"massOffsetZ" "0"
+		"trailFX" ""
+	}
+	"book" ( "physpreset.gdf" )
+	{
+		"bounce" "0.3"
+		"bulletForceScale" "0.6"
+		"buoyancyMaxX" "0"
+		"buoyancyMaxY" "0"
+		"buoyancyMaxZ" "0"
+		"buoyancyMinX" "0"
+		"buoyancyMinY" "0"
+		"buoyancyMinZ" "0"
+		"canFloat" "1"
+		"configstringFileType" "PHYSIC"
+		"damping_angular" "1"
+		"damping_linear" "1"
+		"explosiveForceScale" "0.12"
+		"friction" "0.5"
+		"gravityScale" "1"
+		"impactsFxTable" ""
+		"impactsSoundsTable" ""
+		"mass" "5"
+		"massOffsetX" "0"
+		"massOffsetY" "0"
+		"massOffsetZ" "0"
+		"trailFX" ""
+	}
+	"bottle_plastic" ( "physpreset.gdf" )
+	{
+		"bounce" "1"
+		"bulletForceScale" "0.45"
+		"buoyancyMaxX" "1"
+		"buoyancyMaxY" "1"
+		"buoyancyMaxZ" "1"
+		"buoyancyMinX" "-1"
+		"buoyancyMinY" "-1"
+		"buoyancyMinZ" "-1"
+		"canFloat" "1"
+		"configstringFileType" "PHYSIC"
+		"damping_angular" "1"
+		"damping_linear" "1"
+		"explosiveForceScale" "0.085"
+		"friction" "0.35"
+		"gravityScale" "1"
+		"impactsFxTable" ""
+		"impactsSoundsTable" ""
+		"mass" "0.15"
+		"massOffsetX" "0"
+		"massOffsetY" "0"
+		"massOffsetZ" "0"
+		"trailFX" ""
+	}
+	"brick" ( "physpreset.gdf" )
+	{
+		"bounce" "0.3"
+		"bulletForceScale" "0.6"
+		"buoyancyMaxX" "0"
+		"buoyancyMaxY" "0"
+		"buoyancyMaxZ" "0"
+		"buoyancyMinX" "0"
+		"buoyancyMinY" "0"
+		"buoyancyMinZ" "0"
+		"canFloat" "0"
+		"configstringFileType" "PHYSIC"
+		"damping_angular" "1"
+		"damping_linear" "1"
+		"explosiveForceScale" "0.12"
+		"friction" "0.5"
+		"gravityScale" "1"
+		"impactsFxTable" ""
+		"impactsSoundsTable" ""
+		"mass" "5"
+		"massOffsetX" "0"
+		"massOffsetY" "0"
+		"massOffsetZ" "0"
+		"trailFX" ""
+	}
+	"cardboardbox_empty" ( "physpreset.gdf" )
+	{
+		"bounce" "0.2"
+		"bulletForceScale" "0.1"
+		"buoyancyMaxX" "4"
+		"buoyancyMaxY" "2"
+		"buoyancyMaxZ" "1"
+		"buoyancyMinX" "-4"
+		"buoyancyMinY" "-2"
+		"buoyancyMinZ" "-1"
+		"canFloat" "1"
+		"configstringFileType" "PHYSIC"
+		"damping_angular" "1"
+		"damping_linear" "1"
+		"explosiveForceScale" "0.06"
+		"friction" "0.5"
+		"gravityScale" "1"
+		"impactsFxTable" ""
+		"impactsSoundsTable" ""
+		"mass" "1"
+		"massOffsetX" "0"
+		"massOffsetY" "0"
+		"massOffsetZ" "0"
+		"trailFX" ""
+	}
+	"cardboardbox_full" ( "physpreset.gdf" )
+	{
+		"bounce" "0.2"
+		"bulletForceScale" "0.75"
+		"buoyancyMaxX" "4"
+		"buoyancyMaxY" "2"
+		"buoyancyMaxZ" "1"
+		"buoyancyMinX" "-4"
+		"buoyancyMinY" "-2"
+		"buoyancyMinZ" "-1"
+		"canFloat" "1"
+		"configstringFileType" "PHYSIC"
+		"damping_angular" "1"
+		"damping_linear" "1"
+		"explosiveForceScale" "0.55"
+		"friction" "0.6"
+		"gravityScale" "1"
+		"impactsFxTable" ""
+		"impactsSoundsTable" ""
+		"mass" "30"
+		"massOffsetX" "0"
+		"massOffsetY" "0"
+		"massOffsetZ" "0"
+		"trailFX" ""
+	}
+	"future_fire_extinguisher" ( "physpreset.gdf" )
+	{
+		"bounce" "0.3"
+		"bulletForceScale" "1"
+		"buoyancyMaxX" "0"
+		"buoyancyMaxY" "0"
+		"buoyancyMaxZ" "0"
+		"buoyancyMinX" "0"
+		"buoyancyMinY" "0"
+		"buoyancyMinZ" "0"
+		"canFloat" "1"
+		"configstringFileType" "PHYSIC"
+		"damping_angular" "1"
+		"damping_linear" "1"
+		"explosiveForceScale" "0.5"
+		"friction" "0.5"
+		"gravityScale" "1.25"
+		"impactsFxTable" ""
+		"impactsSoundsTable" ""
+		"mass" "15"
+		"massOffsetX" "0"
+		"massOffsetY" "0"
+		"massOffsetZ" "0"
+		"trailFX" ""
+	}
+	"gib" ( "physpreset.gdf" )
+	{
+		"bounce" "0.4"
+		"bulletForceScale" "0"
+		"buoyancyMaxX" "0"
+		"buoyancyMaxY" "0"
+		"buoyancyMaxZ" "0"
+		"buoyancyMinX" "0"
+		"buoyancyMinY" "0"
+		"buoyancyMinZ" "0"
+		"canFloat" "0"
+		"configstringFileType" "PHYSIC"
+		"damping_angular" "1"
+		"damping_linear" "1"
+		"explosiveForceScale" "0"
+		"friction" "1"
+		"gravityScale" "1"
+		"impactsFxTable" ""
+		"impactsSoundsTable" ""
+		"mass" "3"
+		"massOffsetX" "0"
+		"massOffsetY" "0"
+		"massOffsetZ" "0"
+		"trailFX" ""
+	}
+	"metal_container_lrg" ( "physpreset.gdf" )
+	{
+		"bounce" "0.5"
+		"bulletForceScale" "0.5"
+		"buoyancyMaxX" "0"
+		"buoyancyMaxY" "0"
+		"buoyancyMaxZ" "0"
+		"buoyancyMinX" "0"
+		"buoyancyMinY" "0"
+		"buoyancyMinZ" "0"
+		"canFloat" "1"
+		"configstringFileType" "PHYSIC"
+		"damping_angular" "1"
+		"damping_linear" "1"
+		"explosiveForceScale" "0.5"
+		"friction" "1"
+		"gravityScale" "1"
+		"impactsFxTable" ""
+		"impactsSoundsTable" ""
+		"mass" "10"
+		"massOffsetX" "0"
+		"massOffsetY" "0"
+		"massOffsetZ" "0"
+		"trailFX" ""
+	}
+	"microscope" ( "physpreset.gdf" )
+	{
+		"bounce" "0.1"
+		"bulletForceScale" "0.5"
+		"buoyancyMaxX" "0"
+		"buoyancyMaxY" "0"
+		"buoyancyMaxZ" "0"
+		"buoyancyMinX" "0"
+		"buoyancyMinY" "0"
+		"buoyancyMinZ" "0"
+		"canFloat" "1"
+		"configstringFileType" "PHYSIC"
+		"damping_angular" "1"
+		"damping_linear" "1"
+		"explosiveForceScale" "0.5"
+		"friction" "1"
+		"gravityScale" "1"
+		"impactsFxTable" ""
+		"impactsSoundsTable" ""
+		"mass" "20"
+		"massOffsetX" "0"
+		"massOffsetY" "0"
+		"massOffsetZ" "0"
+		"trailFX" ""
+	}
+	"pillow" ( "physpreset.gdf" )
+	{
+		"bounce" "1"
+		"bulletForceScale" "1"
+		"buoyancyMaxX" "1"
+		"buoyancyMaxY" "1"
+		"buoyancyMaxZ" "1"
+		"buoyancyMinX" "1"
+		"buoyancyMinY" "1"
+		"buoyancyMinZ" "1"
+		"canFloat" "1"
+		"configstringFileType" "PHYSIC"
+		"damping_angular" "1"
+		"damping_linear" "1"
+		"explosiveForceScale" "0.1"
+		"friction" "0.5"
+		"gravityScale" "0.5"
+		"impactsFxTable" ""
+		"impactsSoundsTable" ""
+		"mass" "5"
+		"massOffsetX" "0"
+		"massOffsetY" "0"
+		"massOffsetZ" "0"
+		"trailFX" ""
+	}
+	"plastic_container_sml" ( "physpreset.gdf" )
+	{
+		"bounce" "1"
+		"bulletForceScale" "0.5"
+		"buoyancyMaxX" "0"
+		"buoyancyMaxY" "0"
+		"buoyancyMaxZ" "0"
+		"buoyancyMinX" "0"
+		"buoyancyMinY" "0"
+		"buoyancyMinZ" "0"
+		"canFloat" "1"
+		"configstringFileType" "PHYSIC"
+		"damping_angular" "1"
+		"damping_linear" "1"
+		"explosiveForceScale" "0.5"
+		"friction" "1"
+		"gravityScale" "1"
+		"impactsFxTable" ""
+		"impactsSoundsTable" ""
+		"mass" "1"
+		"massOffsetX" "0"
+		"massOffsetY" "0"
+		"massOffsetZ" "0"
+		"trailFX" ""
+	}
+	"sandbag" ( "physpreset.gdf" )
+	{
+		"bounce" "0.01"
+		"bulletForceScale" "0.6"
+		"buoyancyMaxX" "0"
+		"buoyancyMaxY" "0"
+		"buoyancyMaxZ" "0"
+		"buoyancyMinX" "0"
+		"buoyancyMinY" "0"
+		"buoyancyMinZ" "0"
+		"canFloat" "1"
+		"configstringFileType" "PHYSIC"
+		"damping_angular" "1"
+		"damping_linear" "1"
+		"explosiveForceScale" "0.25"
+		"friction" "0.3"
+		"gravityScale" "1"
+		"impactsFxTable" ""
+		"impactsSoundsTable" ""
+		"mass" "20"
+		"massOffsetX" "0"
+		"massOffsetY" "0"
+		"massOffsetZ" "0"
+		"trailFX" ""
+	}
+	"weapon" ( "physpreset.gdf" )
+	{
+		"bounce" "0.3"
+		"bulletForceScale" "1"
+		"buoyancyMaxX" "0"
+		"buoyancyMaxY" "0"
+		"buoyancyMaxZ" "0"
+		"buoyancyMinX" "0"
+		"buoyancyMinY" "0"
+		"buoyancyMinZ" "0"
+		"canFloat" "0"
+		"configstringFileType" "PHYSIC"
+		"damping_angular" "1"
+		"damping_linear" "1"
+		"explosiveForceScale" "0.25"
+		"friction" "0.6"
+		"gravityScale" "0.8"
+		"impactsFxTable" ""
+		"impactsSoundsTable" "wpn_bounce"
+		"mass" "3"
+		"massOffsetX" "-10"
+		"massOffsetY" "-6"
+		"massOffsetZ" "0"
+		"trailFX" ""
+	}
+	"weapon_clip_empty" ( "physpreset.gdf" )
+	{
+		"bounce" "0.02"
+		"bulletForceScale" "1"
+		"buoyancyMaxX" "0"
+		"buoyancyMaxY" "0"
+		"buoyancyMaxZ" "0"
+		"buoyancyMinX" "0"
+		"buoyancyMinY" "0"
+		"buoyancyMinZ" "0"
+		"canFloat" "1"
+		"configstringFileType" "PHYSIC"
+		"damping_angular" "1"
+		"damping_linear" "1"
+		"explosiveForceScale" "1"
+		"friction" "0.7"
+		"gravityScale" "1"
+		"impactsFxTable" ""
+		"impactsSoundsTable" "wpn_clip_bounce"
+		"mass" "10"
+		"massOffsetX" "0"
+		"massOffsetY" "0"
+		"massOffsetZ" "0"
+		"trailFX" ""
+	}
+	"ceramic_tile_small" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_bottle_glass_liquor_01" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_bottle_glass_liquor_02" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_bottle_glass_liquor_03" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_bottle_glass_liquor_04" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_bottle_glass_wine_01" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_brick_worn_painted_white_01" [ "brick" ]
+	{
+	}
+	"p7_cai_incense_cone_burner_01_lid" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_cai_incense_cone_burner_02" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_cai_plant_sample_vial_01" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_cai_trinket_cat_01a" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_cai_trinket_pyramid_01a" [ "brick" ]
+	{
+	}
+	"p7_cai_vase_ceramic" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_cinder_block" [ "brick" ]
+	{
+	}
+	"p7_cleaning_paper_folded_wrapped" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_coffee_maker_digital_pot" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_container_bottle_wine_01" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_cup_coffee_mug" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_debris_concrete_rubble_sm_10" [ "cardboardbox_full" ]
+	{
+	}
+	"p7_debris_trash_cup_coffee_02" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_debris_trash_cup_red_02" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_debris_trash_drink_carrier_01" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_debris_trash_paper_plate_01" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_decanter_glass_bottle" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_decanter_glass_stopper" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_decanter_whiskey" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_desk_metal_military_03_tablet" [ "cardboardbox_full" ]
+	{
+	}
+	"p7_eth_decor_01_statue_elephant" [ "cardboardbox_full" ]
+	{
+	}
+	"p7_farm_tools_hammer" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_food_fruit" [ "cardboardbox_empty" ]
+	{
+		"impactsSoundsTable" "grenade_bounce"
+	}
+	"p7_furnishings_cairo_chest_sm" [ "cardboardbox_full" ]
+	{
+	}
+	"p7_jar_glass_lrg" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_lab_chemistry_set_cup" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_lab_chemistry_set_pipette" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_lab_chemistry_set_stand_glass" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_lab_chemistry_set_tongs" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_nc_cai_sgen_01" [ "cardboardbox_full" ]
+	{
+	}
+	"p7_office_paper_folder" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_photo_frame_metal" [ "cardboardbox_full" ]
+	{
+	}
+	"p7_picture_frame_square_04" [ "cardboardbox_empty" ]
+	{
+	}
+	"p7_pottery_terracotta_e_orange_soil" [ "brick" ]
+	{
+	}
+	"p7_sgen_chair_dining_future_worn" [ "cardboardbox_full" ]
+	{
+	}
+	"p7_supply_briefcase_02" [ "brick" ]
+	{
+	}
+	"p7_vase_clay_egyptian_01" [ "cardboardbox_full" ]
+	{
+	}
+	"p7_water_cooler_digital_bottle" [ "cardboardbox_empty" ]
+	{
+	}
+}

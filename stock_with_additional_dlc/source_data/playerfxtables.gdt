@@ -1,0 +1,23 @@
+{
+	"mp_playerfx" ( "playerfxtable.gdf" )
+	{
+		"doubleJumpStart" ""
+		"footstep" "player_footstep"
+		"footstepTracker" "player_footstep_tracker"
+		"jumpStart" "player_jump_start"
+		"land" "player_land"
+		"leapStart" "player_jump_start"
+		"playerJet" "vehicle\\fx_exhaust_jetpack_dbl_jmp_core.efx"
+		"playerJetEMP" "player\\fx_plyr_emp_sparks.efx"
+		"playerJetWeak" "vehicle\\fx_exhaust_jetpack_dbl_jmp_core_sm.efx"
+		"slideLeftFoot" "player_slide_left_foot"
+		"slideLeftKnee" ""
+		"slideRightKnee" ""
+		"splashLarge" "player\\fx_plyr_water_splash_md.efx"
+		"splashMassive" "player\\fx_plyr_water_splash_md.efx"
+		"splashMed" "player\\fx_plyr_water_splash_md.efx"
+		"splashSmall" "player\\fx_plyr_water_splash_sm.efx"
+		"underWaterBreathing" "player\\fx_plyr_swim_bubbles_body.efx"
+		"wallRunHand" "player\\fx_plyr_hand_wallrun_dust.efx"
+	}
+}

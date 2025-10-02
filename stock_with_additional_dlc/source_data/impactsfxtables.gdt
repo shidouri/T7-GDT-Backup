@@ -1,0 +1,12 @@
+{
+	"bullet_small_enter" ( "impactsfxtable.gdf" )
+	{
+		"entityFXImpacts" "entity_enter_bullet_small"
+		"surfaceFX" "surface_enter_bullet_small"
+	}
+	"bullet_small_exit" ( "impactsfxtable.gdf" )
+	{
+		"entityFXImpacts" "entity_exit_bullet_small"
+		"surfaceFX" "surface_exit_bullet_small"
+	}
+}

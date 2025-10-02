@@ -1,0 +1,78 @@
+{
+	"truck_head_lights" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\truck_head_lights.tif"
+	}
+	"cookie_flicker02" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\gobo_light_flicker02_512.tif"
+	}
+	"cookie_flicker" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\gobo_light_flicker_512.tif"
+	}
+	"cookie_caustic_ink" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\cookie_caustics_ink_01.tif"
+	}
+	"cookie_caustics_01" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\gobo_caustics_512.tif"
+	}
+	"cookie_caustics_layered" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\gobo_caustics_layered_512.tif"
+	}
+	"cookie_sun_mp_apartments" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\cookie_sun_mp_apartments.tif"
+	}
+	"cuc_black" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\black_512.tif"
+	}
+	"cuc_fov70_pen30" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\cuc_fov_70_pen30.tif"
+	}
+	"cuc_grey_01" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\cuc_grey_01.tif"
+	}
+	"cuc_ies_006" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\ies_cuc_006.tif"
+	}
+	"cuc_ies_017" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\ies_cuc_017.tif"
+	}
+	"cuc_ies_026" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\ies_cuc_026.tif"
+	}
+	"cuc_ies_029" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\ies_cuc_029.tif"
+	}
+	"cuc_ies_cust_02" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\ies_cuc_cust_02.tif"
+	}
+	"cuc_plazma_falloff" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\cuc_plazma_falloff.tif"
+	}
+	"cuc_smooth_180" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\cuc_smooth_180.tif"
+	}
+	"cuc_white" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\cookie_white.tif"
+	}
+	"gobo_spot_rings_001" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\mrt.tif"
+	}
+}

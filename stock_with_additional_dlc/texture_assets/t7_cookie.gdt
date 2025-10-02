@@ -1,0 +1,10 @@
+{
+	"cookie_mrt512_r100_e075_100_075_100" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\mrt.tif"
+	}
+	"cookie_mrt512_r100_e010_100_010_100" ( "light.gdf" )
+	{
+		"cookieImage" "texture_assets\\lights\\mrt.tif"
+	}
+}

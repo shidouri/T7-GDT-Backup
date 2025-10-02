@@ -1,0 +1,66 @@
+{
+	"reload_large" ( "rumble.gdf" )
+	{
+		"broadcast" "0"
+		"camShakeDuration" "0"
+		"camShakeRange" "100"
+		"camShakeScale" "0"
+		"configstringFileType" "RUMBLE"
+		"duration" "0.3"
+		"fadeWithDistance" "1"
+		"highRumbleFile" "reload_large_h.rmb"
+		"lowRumbleFile" "reload_large_l.rmb"
+		"pulseBoneTag" ""
+		"pulseRadiusOuter" "0"
+		"pulseScale" "1"
+		"range" "1"
+	}
+	"reload_medium" ( "rumble.gdf" )
+	{
+		"broadcast" "0"
+		"camShakeDuration" "0"
+		"camShakeRange" "100"
+		"camShakeScale" "0"
+		"configstringFileType" "RUMBLE"
+		"duration" "0.3"
+		"fadeWithDistance" "1"
+		"highRumbleFile" "reload_medium_h.rmb"
+		"lowRumbleFile" "reload_medium_l.rmb"
+		"pulseBoneTag" ""
+		"pulseRadiusOuter" "0"
+		"pulseScale" "1"
+		"range" "1"
+	}
+	"reload_small" ( "rumble.gdf" )
+	{
+		"broadcast" "0"
+		"camShakeDuration" "0"
+		"camShakeRange" "100"
+		"camShakeScale" "0"
+		"configstringFileType" "RUMBLE"
+		"duration" "0.3"
+		"fadeWithDistance" "1"
+		"highRumbleFile" "reload_small_h.rmb"
+		"lowRumbleFile" "reload_small_l.rmb"
+		"pulseBoneTag" ""
+		"pulseRadiusOuter" "0"
+		"pulseScale" "1"
+		"range" "1"
+	}
+	"smg_fire" ( "rumble.gdf" )
+	{
+		"broadcast" "0"
+		"camShakeDuration" "0"
+		"camShakeRange" "100"
+		"camShakeScale" "0"
+		"configstringFileType" "RUMBLE"
+		"duration" "0.3"
+		"fadeWithDistance" "0"
+		"highRumbleFile" "smg_fire_h.rmb"
+		"lowRumbleFile" "smg_fire_l.rmb"
+		"pulseBoneTag" ""
+		"pulseRadiusOuter" "0"
+		"pulseScale" "1"
+		"range" "1"
+	}
+}

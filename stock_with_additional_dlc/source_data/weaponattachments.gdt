@@ -1,0 +1,375 @@
+{
+	"defaultattachment" ( "attachment.gdf" )
+	{
+		"adsAdditiveFallScalar" "1"
+		"adsAdditiveJumpLandScalar" "1"
+		"adsAdditiveJumpScalar" "1"
+		"adsFiringFlinchScalar" "1"
+		"adsFiringSpeedScale" "1"
+		"adsFlinchScalar" "1"
+		"adsIdleAmount" "25"
+		"adsIdleAmountScale" "1"
+		"adsMoveSpeedScale" "1"
+		"adsMoveSpeedTransitionTimeIn" "0"
+		"adsMoveSpeedTransitionTimeOut" "0"
+		"adsRecoilReductionLimit" "0"
+		"adsRecoilReductionRate" "0"
+		"adsScopeBlurAmount" "0"
+		"adsScopeBlurRadius" "0"
+		"adsScopeBlurStart" "0"
+		"adsSwayHorizScale" "-2"
+		"adsSwayLerpSpeed" "1"
+		"adsSwayMaxAngle" "0"
+		"adsSwayOverride" "0"
+		"adsSwayPitchScale" "-2"
+		"adsSwayTransitionLerpSpeed" "0"
+		"adsSwayVertScale" "-2"
+		"adsSwayViewInsteadOfGun" "0"
+		"adsSwayYawScale" "-2"
+		"adsTransInTimeScale" "1"
+		"adsTransOutTimeScale" "1"
+		"adsTurnRateScalar" "1"
+		"adsViewKickCenterSpeedScale" "1"
+		"adsWallRunBobScalar" "1"
+		"adsZoom1_focalLength" "1069.54"
+		"adsZoom1_fStop" "24"
+		"adsZoom2_focalLength" "1069.54"
+		"adsZoom2_fStop" "24"
+		"adsZoom3_focalLength" "1069.54"
+		"adsZoom3_fStop" "24"
+		"adsZoomInFrac" "0"
+		"adsZoomOutFrac" "0"
+		"aimAssistRangeAdsScale" "1"
+		"aimAssistRangeScale" "1"
+		"altScopeADSTransInTime" "0"
+		"altScopeADSTransOutTime" "0"
+		"altWeaponAdsOnly" "0"
+		"altWeaponDisableSwitching" "0"
+		"attachmenttype" "none"
+		"burstCount" "1"
+		"burstDelayTimeScale" "1"
+		"clipSize" "10"
+		"clipSizeScale" "1"
+		"configstringFileType" "ATTACHMENTFILE"
+		"damageRangeScale" "1"
+		"damageRangeScale1" "1"
+		"damageRangeScale2" "1"
+		"damageRangeScale3" "1"
+		"damageRangeScale4" "1"
+		"damageRangeScale5" "1"
+		"damageRangeScale6" "1"
+		"damageScale1" "1"
+		"damageScale2" "1"
+		"damageScale3" "1"
+		"damageScale4" "1"
+		"damageScale5" "1"
+		"damageScale6" "1"
+		"displayName" "WEAPON_DEFAULTATTACHMENT"
+		"DualMag" "0"
+		"fireTimeScale" "1"
+		"fireType" "Full Auto"
+		"firstRaisePriority" "1"
+		"hipIdleAmount" "0"
+		"hipSpreadMaxScale" "1"
+		"hipSpreadMinScale" "1"
+		"idleSpeedFromFireTransitionTime" "0"
+		"infraRed" "0"
+		"kickAlignedInputScalar" "1"
+		"kickOpposedInputScalar" "1"
+		"laserSight" "0"
+		"luiReticle" ""
+		"mods" ""
+		"multishotBaseDamageRangeScale1" "1"
+		"multishotBaseDamageRangeScale2" "1"
+		"multishotBaseDamageRangeScale3" "1"
+		"multishotBaseDamageRangeScale4" "1"
+		"multishotBaseDamageRangeScale5" "1"
+		"multishotBaseDamageRangeScale6" "1"
+		"multishotBaseDamageScale1" "1"
+		"multishotBaseDamageScale2" "1"
+		"multishotBaseDamageScale3" "1"
+		"multishotBaseDamageScale4" "1"
+		"multishotBaseDamageScale5" "1"
+		"multishotBaseDamageScale6" "1"
+		"penetrateType" "none"
+		"reloadAddTimeScale" "1"
+		"reloadEmptyAddTimeScale" "1"
+		"reloadEmptyTimeScale" "1"
+		"reloadQuickAddTimeScale" "1"
+		"reloadQuickEmptyAddTimeScale" "1"
+		"reloadQuickEmptyTimeScale" "1"
+		"reloadQuickTimeScale" "1"
+		"reloadTimeScale" "1"
+		"sharedAmmo" "0"
+		"silenced" "0"
+		"stackFire" "0"
+		"stackFireAccuracyDecay" "0"
+		"stackFireSpread" "0"
+		"standMoveF" "-300"
+		"standRotP" "-300"
+		"standRotR" "-300"
+		"strafeRotR" "-300"
+		"swayHorizScale" "-2"
+		"swayLerpSpeed" "1"
+		"swayMaxAngle" "0"
+		"swayOverride" "0"
+		"swayPitchScale" "-2"
+		"swayVertScale" "-2"
+		"swayYawScale" "-2"
+		"useAsMelee" "0"
+	}
+	"acog" [ "defaultattachment" ]
+	{
+		"adsAdditiveFallScalar" "0.3"
+		"adsAdditiveJumpLandScalar" "0.3"
+		"adsAdditiveJumpScalar" "0.5"
+		"adsIdleAmount" "1"
+		"adsIdleAmountScale" "0.1"
+		"adsRecoilReductionLimit" "0.1"
+		"adsRecoilReductionRate" "1"
+		"adsSwayHorizScale" "0.125"
+		"adsSwayLerpSpeed" "3"
+		"adsSwayMaxAngle" "0.5"
+		"adsSwayOverride" "1"
+		"adsSwayPitchScale" "0.125"
+		"adsSwayTransitionLerpSpeed" "20"
+		"adsSwayVertScale" "0.125"
+		"adsSwayYawScale" "0.125"
+		"adsTurnRateScalar" "1.4"
+		"adsViewKickCenterSpeedScale" "1.1"
+		"adsWallRunBobScalar" "0.01"
+		"adsZoom1_focalLength" "29.6"
+		"adsZoom2_focalLength" "29.6"
+		"adsZoom3_focalLength" "29.6"
+		"adsZoom3_fStop" "7"
+		"adsZoomInFrac" "0.3"
+		"adsZoomOutFrac" "0.4"
+		"attachmenttype" "acog"
+		"displayName" "WEAPON_ACOG"
+	}
+	"dualoptic" [ "defaultattachment" ]
+	{
+		"adsAdditiveFallScalar" "0.1"
+		"adsAdditiveJumpLandScalar" "0.01"
+		"adsAdditiveJumpScalar" "0.1"
+		"adsRecoilReductionLimit" "0.05"
+		"adsRecoilReductionRate" "1"
+		"adsScopeBlurAmount" "0.0011"
+		"adsScopeBlurStart" "0.0011"
+		"adsSwayHorizScale" "0.075"
+		"adsSwayLerpSpeed" "4"
+		"adsSwayMaxAngle" "0.1"
+		"adsSwayOverride" "1"
+		"adsSwayPitchScale" "0.075"
+		"adsSwayTransitionLerpSpeed" "20"
+		"adsSwayVertScale" "0.075"
+		"adsSwayYawScale" "0.075"
+		"adsTurnRateScalar" "1.1"
+		"adsViewKickCenterSpeedScale" "1.1"
+		"adsZoom1_focalLength" "19"
+		"adsZoom1_fStop" "6"
+		"adsZoom2_focalLength" "20.02"
+		"adsZoom3_focalLength" "35"
+		"adsZoom3_fStop" "8"
+		"altScopeADSTransInTime" "0.1"
+		"altScopeADSTransOutTime" "0.1"
+		"altWeaponAdsOnly" "1"
+		"altWeaponDisableSwitching" "1"
+		"attachmenttype" "dualoptic"
+		"displayName" "WEAPON_DUALOPTIC"
+		"luiReticle" "MagnifierReticle_UI3D"
+		"sharedAmmo" "1"
+	}
+	"extbarrel" [ "defaultattachment" ]
+	{
+		"attachmenttype" "extbarrel"
+		"damageRangeScale" "1.13"
+		"displayName" "WEAPON_EXTBARREL"
+	}
+	"extclip" [ "defaultattachment" ]
+	{
+		"attachmenttype" "extclip"
+		"clipSizeScale" "1.4"
+		"displayName" "WEAPON_EXTCLIP"
+	}
+	"fastreload" [ "defaultattachment" ]
+	{
+		"attachmenttype" "fastreload"
+		"displayName" "WEAPON_FASTRELOAD"
+		"reloadAddTimeScale" "0.55"
+		"reloadEmptyAddTimeScale" "0.55"
+		"reloadEmptyTimeScale" "0.55"
+		"reloadQuickAddTimeScale" "0.55"
+		"reloadQuickEmptyTimeScale" "0.55"
+		"reloadQuickTimeScale" "0.55"
+		"reloadTimeScale" "0.55"
+	}
+	"fmj" [ "defaultattachment" ]
+	{
+		"attachmenttype" "fmj"
+		"displayName" "WEAPON_FMJ"
+		"mods" "specialty_bulletpenetration\r\nspecialty_armorpiercing"
+	}
+	"gmod" [ "defaultattachment" ]
+	{
+	}
+	"grip" [ "defaultattachment" ]
+	{
+		"adsRecoilReductionLimit" "0.075"
+		"adsRecoilReductionRate" "1"
+		"attachmenttype" "grip"
+		"displayName" "WEAPON_GRIP"
+	}
+	"holo" [ "defaultattachment" ]
+	{
+		"adsSwayTransitionLerpSpeed" "20"
+		"adsViewKickCenterSpeedScale" "1.1"
+		"adsZoom1_focalLength" "22.5"
+		"adsZoom2_focalLength" "22.5"
+		"adsZoom3_focalLength" "22.5"
+		"adsZoom3_fStop" "7"
+		"attachmenttype" "holo"
+		"displayName" "WEAPON_HOLO"
+	}
+	"quickdraw" [ "defaultattachment" ]
+	{
+		"adsTransInTimeScale" "0.7"
+		"adsTransOutTimeScale" "0.7"
+		"attachmenttype" "quickdraw"
+		"displayName" "WEAPON_QUICKDRAW"
+	}
+	"reddot" [ "defaultattachment" ]
+	{
+		"adsSwayHorizScale" "0.125"
+		"adsSwayLerpSpeed" "6"
+		"adsSwayMaxAngle" "1"
+		"adsSwayOverride" "1"
+		"adsSwayPitchScale" "0.125"
+		"adsSwayTransitionLerpSpeed" "20"
+		"adsSwayVertScale" "0.125"
+		"adsSwayYawScale" "0.125"
+		"adsZoom1_focalLength" "20"
+		"adsZoom2_focalLength" "20"
+		"adsZoom3_focalLength" "20"
+		"adsZoom3_fStop" "8"
+		"attachmenttype" "reddot"
+		"displayName" "WEAPON_REDDOT"
+	}
+	"reflex" [ "defaultattachment" ]
+	{
+		"adsSwayHorizScale" "0.125"
+		"adsSwayLerpSpeed" "6"
+		"adsSwayMaxAngle" "1"
+		"adsSwayOverride" "1"
+		"adsSwayPitchScale" "0.125"
+		"adsSwayTransitionLerpSpeed" "20"
+		"adsSwayVertScale" "0.125"
+		"adsSwayYawScale" "0.125"
+		"adsZoom1_focalLength" "20.02"
+		"adsZoom2_focalLength" "20.02"
+		"adsZoom3_focalLength" "20.02"
+		"adsZoom3_fStop" "5"
+		"attachmenttype" "reflex"
+		"displayName" "WEAPON_REFLEX"
+	}
+	"rf" [ "defaultattachment" ]
+	{
+		"attachmenttype" "rf"
+		"displayName" "WEAPON_RF"
+		"fireTimeScale" "0.94"
+	}
+	"stalker" [ "defaultattachment" ]
+	{
+		"adsFiringSpeedScale" "1.425"
+		"adsMoveSpeedScale" "1.7"
+		"attachmenttype" "stalker"
+		"displayName" "WEAPON_STALKER"
+	}
+	"steadyaim" [ "defaultattachment" ]
+	{
+		"attachmenttype" "steadyaim"
+		"displayName" "WEAPON_STEADYAIM"
+		"hipSpreadMaxScale" "0.45"
+		"hipSpreadMinScale" "0.45"
+		"laserSight" "1"
+		"standRotP" "-0.01"
+		"standRotR" "0"
+		"strafeRotR" "1"
+		"swayHorizScale" "0.075"
+		"swayLerpSpeed" "5"
+		"swayMaxAngle" "1.5"
+		"swayOverride" "1"
+		"swayPitchScale" "0.5"
+		"swayVertScale" "0.075"
+		"swayYawScale" "-0.5"
+	}
+	"suppressed" [ "defaultattachment" ]
+	{
+		"attachmenttype" "suppressed"
+		"damageRangeScale" "0.7"
+		"displayName" "WEAPON_SUPPRESSED"
+		"silenced" "1"
+	}
+	"extbarrel_smg" [ "extbarrel" ]
+	{
+		"damageRangeScale" "1"
+		"damageRangeScale5" "1.25"
+		"damageRangeScale6" "1.25"
+	}
+	"fastreload_segmented" [ "fastreload" ]
+	{
+		"reloadAddTimeScale" "1"
+		"reloadEmptyTimeScale" "1"
+		"reloadQuickAddTimeScale" "1"
+		"reloadQuickEmptyTimeScale" "1"
+		"reloadQuickTimeScale" "1"
+		"reloadTimeScale" "1"
+	}
+	"gmod6" [ "gmod" ]
+	{
+		"attachmenttype" "gmod6"
+		"displayName" "WEAPON_GMOD6"
+	}
+	"gmod7" [ "gmod" ]
+	{
+		"attachmenttype" "gmod7"
+		"displayName" "WEAPON_GMOD7"
+	}
+	"quickdraw_smg" [ "quickdraw" ]
+	{
+		"adsZoomInFrac" "1"
+		"adsZoomOutFrac" "1"
+	}
+	"rf_arfastburst" [ "rf" ]
+	{
+		"fireTimeScale" "0.91"
+	}
+	"stalker_smg" [ "stalker" ]
+	{
+		"adsFiringSpeedScale" "1"
+		"adsMoveSpeedScale" "2.5"
+	}
+	"steadyaim_light" [ "steadyaim" ]
+	{
+		"hipSpreadMaxScale" "0.65"
+		"hipSpreadMinScale" "0.65"
+	}
+	"suppressed_smg" [ "suppressed" ]
+	{
+	}
+	"fastreload_segmented_upgraded" [ "fastreload_segmented" ]
+	{
+	}
+	"stalker_smg_fast" [ "stalker_smg" ]
+	{
+		"adsMoveSpeedScale" "2.6"
+	}
+	"acog_kick" [ "acog" ]
+	{
+		"adsRecoilReductionLimit" "0.05"
+	}
+	"dualoptic_kick" [ "dualoptic" ]
+	{
+		"adsRecoilReductionLimit" "0.025"
+	}
+}
